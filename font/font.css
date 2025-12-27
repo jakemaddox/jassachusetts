@@ -1,0 +1,8 @@
+@font-face {
+  font-family: Jassachusetts;
+  src: url(Jassachusetts-VF.woff2) format(woff2);
+}
+
+body {
+  font-family: Jassachusetts, Georgia, Times New Roman, serif;
+}
